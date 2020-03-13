@@ -1,3 +1,3 @@
-module github.com/wallemr5/gosum/sum
+module github.com/wallemr5/gosum
 
 go 1.14
